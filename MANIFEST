@@ -32,5 +32,6 @@ t/01-can.t
 t/02-cgi.t
 t/03-key_from.t
 t/04-session.t
+t/lib/MyApp.pm
 t/pod-coverage.t
 t/pod.t
