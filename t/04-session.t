@@ -1,7 +1,6 @@
 use lib qw(t/lib);
 use Test::More tests => 6;
 use Test::WWW::Mechanize::CGI;
-use Data::Dump qw(dump);
 
 use MyApp;
 

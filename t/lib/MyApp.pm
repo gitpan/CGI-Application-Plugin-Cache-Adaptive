@@ -8,7 +8,6 @@ use base qw(CGI::Application);
 use CGI::Application::Plugin::Cache::Adaptive;
 use CGI::Application::Plugin::AutoRunmode;
 use CGI::Application::Plugin::Session;
-use Data::Dump qw(dump);
 
 use Cache::FileCache;
 
